@@ -1,1 +1,1 @@
-This is second updated version of my software make changes in index.txt file via github desktop
+This is second updated version of my software make changes in index.txt file via GitHub web
