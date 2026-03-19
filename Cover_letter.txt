@@ -1,0 +1,23 @@
+ANUJ CHAURASIA
+9340306943
+anujchaurasia9340306943@gmail.com
+Indore, Madhya Pradesh 
+
+7th March 2026
+Wangoes Technologies
+Hiring Manager, Really Great Place
+
+JOB REFERENCE: Quality Assurance Engineer (Manual),
+
+Dear Hiring Manager,
+
+I am writing to apply for the Quality Assurance Engineer (Manual) position. I have 1 year of experience in Manual Testing with a strong understanding of the Software Testing Life Cycle (STLC), test case design, Bug tracking, and regression testing.
+In my role, I have worked on analyzing requirements, executing test cases, reporting bugs, and collaborating with developers to ensure high-quality software delivery. I also have basic knowledge of Automation Testing concepts and familiarity with tools such as Selenium, TestNg.
+I am continuously working to strengthen my automation skills. I am detail-oriented, eager to learn, and committed to improving software quality through effective testing practices. 
+I would welcome the opportunity to contribute to your QA team.
+
+Thank you for considering my application. 
+I look forward to the possibility of discussing my candidacy further
+
+Sincerely,
+Anuj Chaurasia
