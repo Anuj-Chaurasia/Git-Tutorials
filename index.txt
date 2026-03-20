@@ -1,1 +1,2 @@
 This is second updated version of my software make changes in index.txt file via GitHub web
+Add some text via ecllipse IDE. and connect github project/repo with ecllipse IDE successfully.
